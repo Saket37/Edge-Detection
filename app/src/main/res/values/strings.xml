@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Edge Detection Interview</string>
+    <string name="url_ok">OK</string>
+    <string name="url_cancel">Cancel</string>
+    <string name="image_url">Enter Image Url</string>\
+    <string name="image_empty">Error loading Image</string>
+</resources>

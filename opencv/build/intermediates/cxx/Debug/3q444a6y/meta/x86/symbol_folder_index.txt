@@ -1,0 +1,1 @@
+/home/rias/AndroidStudioProjects/EdgeDetectionInterview/opencv/build/intermediates/cxx/Debug/3q444a6y/obj/x86
